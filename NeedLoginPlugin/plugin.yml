@@ -1,0 +1,6 @@
+name: NeedLoginPlugin
+main: me.duper51.needloginplugin.NeedLoginMain
+version: 0.1
+description: >
+             NeedLoginPlugin. Easy server protection.
+commands:
